@@ -33,9 +33,9 @@ PORT=xxxx
 
 2. Create database (Open psql or pgAdmin and run:):
    ```sql
-   CREATE DATABASE Parking;
-   CREATE USER Parking WITH PASSWORD 'your_secure_password';
-   GRANT ALL PRIVILEGES ON DATABASE Parking TO Parking;
+   CREATE DATABASE Safari_Connect;
+   CREATE USER Safari_Connect WITH PASSWORD 'your_secure_password';
+   GRANT ALL PRIVILEGES ON DATABASE Safari_Connect TO Safari_Connect;
    ```
 
 ### 3. Database Migrations
