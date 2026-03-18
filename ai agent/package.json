@@ -1,0 +1,16 @@
+{
+  "name": "safari-connect-ai-agent",
+  "version": "0.1.0",
+  "description": "Autonomous decision-making AI agent for Safari Connect",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
